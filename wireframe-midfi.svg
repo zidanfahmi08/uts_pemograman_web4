@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 1220" width="1700" height="1220"><rect width="1700" height="1220" fill="#f3f3f3"/><text x="420" y="30" font-size="18" font-weight="bold" text-anchor="middle" font-family="Arial">Wireframe Mid-Fidelity - Halaman Beranda</text>
+<rect x="20" y="45" width="800" height="1150" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<rect x="20" y="45" width="800" height="70" fill="#1e1b4b" stroke="#222" stroke-width="1.5"/>
+<rect x="40" y="62" width="36" height="36" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="58.0" y="85.0" font-size="14" text-anchor="middle" fill="#222" font-family="Arial">L</text>
+<text x="86" y="86" font-size="18" fill="#fff" font-family="Arial">Fahmi Store</text>
+<text x="540" y="86" font-size="14" fill="#fff" font-family="Arial">Beranda</text>
+<text x="625" y="86" font-size="14" fill="#fff" font-family="Arial">Katalog</text>
+<text x="710" y="86" font-size="14" fill="#fff" font-family="Arial">Kontak</text>
+<rect x="20" y="115" width="800" height="230" fill="#4f46e5" stroke="#222" stroke-width="1.5"/>
+<text x="60" y="200" font-size="28" font-weight="bold" fill="#fff" font-family="Arial">HP second berkualitas, bergaransi</text>
+<rect x="60" y="225" width="130" height="38" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="125.0" y="249.0" font-size="14" text-anchor="middle" fill="#222" font-family="Arial">Lihat produk</text>
+<text x="60" y="385" font-size="20" font-weight="bold" font-family="Arial">HP second pilihan</text>
+<rect x="50" y="410" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="60" y="420" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="65" y="600" font-size="16" font-weight="bold" font-family="Arial">iPhone 11 128GB</text>
+<text x="65" y="625" font-size="14" fill="#4f46e5" font-family="Arial">Rp 4.850.000</text>
+<rect x="65" y="670" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="120.0" y="692.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="300" y="410" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="310" y="420" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="315" y="600" font-size="16" font-weight="bold" font-family="Arial">Galaxy S21 8/256</text>
+<text x="315" y="625" font-size="14" fill="#4f46e5" font-family="Arial">Rp 4.200.000</text>
+<rect x="315" y="670" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="370.0" y="692.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="550" y="410" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="560" y="420" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="565" y="600" font-size="16" font-weight="bold" font-family="Arial">Redmi Note 11</text>
+<text x="565" y="625" font-size="14" fill="#4f46e5" font-family="Arial">Rp 1.650.000</text>
+<rect x="565" y="670" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="620.0" y="692.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="50" y="750" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="60" y="760" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="65" y="940" font-size="16" font-weight="bold" font-family="Arial">Oppo Reno 6</text>
+<text x="65" y="965" font-size="14" fill="#4f46e5" font-family="Arial">Rp 2.300.000</text>
+<rect x="65" y="1010" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="120.0" y="1032.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="300" y="750" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="310" y="760" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="315" y="940" font-size="16" font-weight="bold" font-family="Arial">Vivo V21</text>
+<text x="315" y="965" font-size="14" fill="#4f46e5" font-family="Arial">Rp 2.100.000</text>
+<rect x="315" y="1010" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="370.0" y="1032.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="550" y="750" width="230" height="320" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<rect x="560" y="760" width="210" height="150" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="565" y="940" font-size="16" font-weight="bold" font-family="Arial">iPhone XR 64GB</text>
+<text x="565" y="965" font-size="14" fill="#4f46e5" font-family="Arial">Rp 3.300.000</text>
+<rect x="565" y="1010" width="110" height="34" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="620.0" y="1032.0" font-size="13" text-anchor="middle" fill="#222" font-family="Arial">Lihat detail</text>
+<rect x="20" y="1090" width="800" height="105" fill="#1e1b4b" stroke="#222" stroke-width="1.5"/>
+<text x="420" y="1145" font-size="14" text-anchor="middle" fill="#fff" font-family="Arial">© 2026 411242035 – Muhammad Zidan Fahmi</text><text x="1280" y="30" font-size="18" font-weight="bold" text-anchor="middle" font-family="Arial">Wireframe Mid-Fidelity - Halaman Detail Produk</text>
+<rect x="880" y="45" width="800" height="1150" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<rect x="880" y="45" width="800" height="70" fill="#1e1b4b" stroke="#222" stroke-width="1.5"/>
+<rect x="900" y="62" width="36" height="36" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="918.0" y="85.0" font-size="14" text-anchor="middle" fill="#222" font-family="Arial">L</text>
+<text x="946" y="86" font-size="18" fill="#fff" font-family="Arial">Fahmi Store</text>
+<text x="1400" y="86" font-size="14" fill="#fff" font-family="Arial">Beranda</text>
+<text x="1485" y="86" font-size="14" fill="#fff" font-family="Arial">Katalog</text>
+<text x="1570" y="86" font-size="14" fill="#fff" font-family="Arial">Kontak</text>
+<text x="910" y="150" font-size="14" fill="#4f46e5" font-family="Arial">&#8592; Kembali ke daftar produk</text>
+<rect x="910" y="170" width="360" height="300" fill="#c7d2fe" stroke="#888" stroke-width="1.5"/>
+<text x="1300" y="200" font-size="26" font-weight="bold" font-family="Arial">iPhone 11 128GB</text>
+<text x="1300" y="232" font-size="20" fill="#4f46e5" font-family="Arial">Rp 4.850.000</text>
+<rect x="1300" y="255" width="340" height="8" fill="#ccc" stroke="#ccc" stroke-width="1.5"/>
+<rect x="1300" y="271" width="340" height="8" fill="#ccc" stroke="#ccc" stroke-width="1.5"/>
+<rect x="1300" y="287" width="340" height="8" fill="#ccc" stroke="#ccc" stroke-width="1.5"/>
+<text x="1300" y="330" font-size="16" font-weight="bold" font-family="Arial">Spesifikasi &amp; kondisi</text>
+<text x="1310" y="358" font-size="14" font-family="Arial">&#8226; Mulus 95%</text>
+<text x="1310" y="382" font-size="14" font-family="Arial">&#8226; Battery health 86%</text>
+<text x="1310" y="406" font-size="14" font-family="Arial">&#8226; Unit + charger</text>
+<text x="1310" y="430" font-size="14" font-family="Arial">&#8226; Garansi toko 3 bulan</text>
+<rect x="1300" y="440" width="140" height="38" fill="#22d3a6" stroke="#555" stroke-width="1.5"/>
+<text x="1370.0" y="464.0" font-size="14" text-anchor="middle" fill="#222" font-family="Arial">Hubungi penjual</text>
+<rect x="880" y="1090" width="800" height="105" fill="#1e1b4b" stroke="#222" stroke-width="1.5"/>
+<text x="1280" y="1145" font-size="14" text-anchor="middle" fill="#fff" font-family="Arial">© 2026 411242035 – Muhammad Zidan Fahmi</text></svg>
